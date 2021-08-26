@@ -1,0 +1,34 @@
+body {
+  background-color: #F9F7F7
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: #DBE2EF;
+  width: 10%;
+}
+
+h1 {
+  color: #334257
+}
+
+h3 {
+  color: #334257
+}
+
+form :active {
+  color: red;
+}
+
+form button {
+  background: white;
+}
+
+a:link {color: blue;}
+a:active {color: red;}
+a:visited {color: purple;}
+a:hover {color: #548CA8;}
+
+p:active {background: #548CA8;}
